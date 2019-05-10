@@ -40,6 +40,7 @@ dependencies {
 
     // Use JUnit test framework
     testCompile 'junit:junit:4.12'
+     classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.7"
 }
 
 // Define the main class for the application
