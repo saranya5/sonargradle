@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'CI-CD-WORK-INPROGRESS'
+rootProject.name = 'sonarqube-scanner-gradle'
